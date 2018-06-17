@@ -13,7 +13,7 @@ def loadSimpDat():
                ['y', 'z', 'x', 'e', 'q', 's', 't', 'm']]
     return simpDat
 
-
+#sdfkjsldkjflsdf
 # 数据准备
 simpDat = loadSimpDat()
 for list in simpDat:
